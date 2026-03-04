@@ -17,8 +17,10 @@ Files used:
 - train_transaction.csv
 - train_identity.csv
 
+
 ## Project Structure
 
+```
 fraud-detection-bigdata
 │
 ├── notebooks       # Databricks notebooks for ingestion, EDA, modeling, MLflow
@@ -26,6 +28,7 @@ fraud-detection-bigdata
 ├── reports         # Final project report
 ├── slides          # Presentation slides
 └── README.md
+```
 
 ## Tools & Technologies
 - Databricks
