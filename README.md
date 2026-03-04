@@ -18,13 +18,14 @@ Files used:
 - train_identity.csv
 
 ## Project Structure
-fraud-detection-bigdata
 
-── notebooks      # Databricks notebooks for ingestion, EDA, modeling, MLflow
-── data-samples   # Small dataset samples
-── reports        # Final project report
-── slides         # Presentation slides
-── README.md
+fraud-detection-bigdata
+│
+├── notebooks       # Databricks notebooks for ingestion, EDA, modeling, MLflow
+├── data-samples    # Small dataset samples
+├── reports         # Final project report
+├── slides          # Presentation slides
+└── README.md
 
 ## Tools & Technologies
 - Databricks
