@@ -12,6 +12,7 @@ Data location:
 
 ## Data Sources
 Dataset: IEEE-CIS Fraud Detection (Kaggle)
+Link: https://www.kaggle.com/competitions/ieee-fraud-detection/data
 
 Files used:
 - train_transaction.csv
